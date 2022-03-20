@@ -29,6 +29,7 @@ node -v
 npm -v
 ```
 Install [Bootstrap 3](https://getbootstrap.com/docs/3.3/getting-started/) for the website's frontend:
+Or the latest bootstrap version.
 ```
 npm init -y
 npm install bootstrap@3
