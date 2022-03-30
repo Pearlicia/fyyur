@@ -2,7 +2,9 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 It's the first project in FSND (FullStack NanoDegree) On [Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).
 
 
-My job was to build out the data models to power the API endpoints for the Fyyur site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on Fyyur.
+My job was to build out the data models to power 
+the API endpoints for the Fyyur site by connecting to a PostgreSQL
+database for storing, querying, and creating information about artists and venues on Fyyur.
 
 
 ### Tech Stack (Dependencies)
@@ -10,7 +12,7 @@ My job was to build out the data models to power the API endpoints for the Fyyur
 #### 1. Backend Dependencies
  * **virtualenv** as a tool to create isolated Python environments
  * **SQLAlchemy ORM**  ORM library
- * **PostgreSQL** the database
+ * **PostgreSQL** the database used
  * **Python3** and **Flask** as the server language and server framework
  * **Flask-Migrate** for creating and running schema migrations
 
