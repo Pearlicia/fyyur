@@ -4,7 +4,7 @@ It's the first project in FSND (FullStack NanoDegree) On [Udacity](https://www.u
 
 My job was to build out the data models to power 
 the API endpoints for the Fyyur site by connecting to a PostgreSQL
-database for storing, querying, and creating information about artists and venues on Fyyur.
+database for storing, querying, retrieving, and creating information about artists and venues on Fyyur.
 
 
 ### Tech Stack (Dependencies)
